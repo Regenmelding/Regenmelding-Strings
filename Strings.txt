@@ -1,0 +1,591 @@
+[[General]]
+    [region_code]
+        en = uk
+        nl = nl
+        de = de
+    [title]
+        en = Rain Alerts
+        nl = Regenmelding
+        de = Regenmeldung
+    [location_permission]
+        de = Standort ist für den blauen Punkt auf der Karte verwendet
+        en = Location is used for the blue dot on the map
+        nl = Locatie wordt gebruikt voor de blauwe stip op de kaart
+    [location_permission_background]
+        de = Standort ist für den blauen Punkt auf der Karte und den 'Folge mir' Meldungen genutzt
+        en = Location is used for the blue dot on the map and the 'Track me' alerts
+        nl = Locatie wordt gebruikt voor de blauwe stip op de kaart en de 'Volg mij' meldingen
+
+[[Messages]]
+    [message_title]
+        en = Rain alert for %@
+        comment = Notifications
+        nl = Regenmelding voor %@
+    [message_short]
+        en = %1$.1f mm/h %2$@ (%3$@)
+        nl = %1$.1f mm/u %2$@ (%3$@)
+    [message_long]
+        en = There will be %1$@ (%2$.1f mm/h) around %3$@ %4$@.
+        nl = Er %1$@ (%2$.1f mm/u) rond %3$@ %4$@.
+    [message_cloudburst]
+        en = a cloudburst
+        nl = breekt een wolkbreuk uit
+    [message_very_heavy]
+        en = extremely heavy rainfall
+        nl = valt zware neerslag
+    [message_heavy]
+        en = heavy rainfall
+        nl = valt zware neerslag
+    [message_medium]
+        en = medium rainfall
+        nl = valt matige neerslag
+    [message_light]
+        en = light rainfall
+        nl = valt lichte neerslag
+    [at_your_location]
+        en = at your location
+        nl = op uw locatie
+    [duration]
+        en = Duration: %1$@ %2$d minutes
+        nl = Duur: %1$@ %2$d minuten
+    [approx]
+        en = approximately
+        nl = ongeveer
+    [morethan]
+        en = more than
+        nl = meer dan
+    [expired_title]
+        en = '%@' deactivated
+        nl = '%@' niet meer actief
+    [expired_short]
+        en = Upgrade for always-active alerts
+        nl = Upgrade voor altijd-actief meldingen
+    [expired_long]
+        en = Your alert for %@ is now no longer active. Please buy the full version for alerts that always stay active.
+        nl = Uw melding voor %@ is nu niet meer actief. Als u de volledige versie koopt blijven meldingen wel altijd actief.
+
+[[Main View]]
+    [pause]
+        en = Pause
+        nl = Pauze
+    [share]
+        en = Share
+        nl = Delen
+    [progress]
+        en = Progress
+        nl = Voortgang
+
+[[Errors]]
+    [download_error]
+        de = Probleme mit der Internetverbindung
+        en = An error occurred while downloading.
+        nl = Er heeft zich een fout voorgedaan tijdens het downloaden.
+    [proxy_warning]
+        en = Error while downloading. Check in your browser if your current connection requires logging in.
+        nl = Fout tijdens downloaden. Controleer in uw browser of er voor uw huidige verbinding inloggen is vereist.
+    [new_version_warning]
+        en = A new version of Rain Alerts is available. Please update this app.
+        nl = Er is een nieuwe versie van Regenmelding beschikbaar.
+    [error_posting_settings]
+        de = Verbindungsproblem. Push Einstellungen können nicht geändert werden.
+        en = Unable to send alert settings. Please try again later.
+        nl = Uw melding instellingen konden niet naar de server worden verstuurd. Probeer het later opnieuw.
+    [try_again]
+        de = Versuche es nochmals
+        en = Try again
+        nl = Probeer opnieuw!
+    [ok]
+        de = OK
+        en = OK
+        nl = OK
+
+    [need_push_permission]
+        de = Um Warnungen zu empfangen müssen Push Meldungen eingeschaltet sein. Installieren Sie die App neu, um die Einstellungen erneut zu wählen.
+        en = You need to give permission before you can use the Push alert functionality. Go to Settings > Notifications to give the Rain Alert application permissions.
+        nl = U moet toestemming geven voor Push berichten om gebruik te maken van de waarschuwing functionaliteit. Herinstalleer de applicatie als u alsnog toestemming wenst te geven.
+
+
+[[Upgrade]]
+    [upgrade]
+        en = Upgrade
+        nl = Upgrade
+    [thanks_for_purchase]
+        en = Thank you for your purchase, you are now using the full version!
+        nl = Bedankt voor uw aanschaf! U gebruikt nu de volledige versie.
+    [unable_to_purchase]
+        en = An error occurred while trying to purchase. Please try again later.
+        nl = Er heeft zich een fout voorgedaan tijdens de aankoop. Probeer het later opnieuw.
+    [explain_upgrade]
+        en = You are using the free version. If you upgrade to the full version, ads will be removed and alerts will work indefinitely.
+        nl = U gebruikt de gratis versie. Als u naar de volledige versie upgrade heeft u geen reclames meer en blijven meldingen altijd actief.
+    [upgrade_to_full_version]
+        en = Upgrade to\nfull version
+        nl = Upgrade naar\nvolledige versie
+    [upgrade_widget]
+        en = This is the free version\nUpgrade to the full version to remove this message
+        nl = Dit is de gratis versie.\nUpgrade naar de volledige versie om dit bericht weg te halen
+
+
+[[Settings]]
+    [settings]
+        de = Einstellungen
+        en = Settings
+        nl = Instellingen
+    [move]
+        de = Bearbeiten
+        en = Edit
+        nl = Wijzig
+    [done]
+        de = Fertig
+        en = Done
+        nl = Gereed
+    [alerts]
+        de = Meldungen
+        en = Alerts
+        nl = Meldingen
+    [track_me_accuracy]
+        de = 'Folge mir' Genauigkeit
+        en = 'Track me' accuracy
+        nl = 'Volg mij' nauwkeurigheid
+    [accuracy]
+        de = Präzision
+        en = Accuracy
+        nl = Nauwkeurigheid
+    [accuracy_10_kilometer]
+        de = 10 Kilometer (energiesparend)
+        en = 10 kilometer (most efficient)
+        nl = 10 kilometer (zuinigst)
+    [accuracy_3_kilometer]
+        de = 3 Kilometer
+        en = 3 kilometer
+        nl = 3 kilometer
+    [accuracy_1_kilometer]
+        de = 1 Kilometer
+        en = 1 kilometer
+        nl = 1 kilometer
+    [accuracy_100_meter]
+        de = 100 Meter
+        en = 100 meter
+        nl = 100 meter
+    [accuracy_10_meter]
+        de = 10 Meter (Genaueste)
+        en = 10 meter (most accurate)
+        nl = 10 meter (accuraatst)
+    [add_alert]
+        de = Meldung hinzufügen…
+        en = Add Alert…
+        nl = Voeg melding toe…
+    [map]
+        de = Karte
+        en = Map
+        nl = Kaart
+    [speed]
+        de = Geschwindigkeit
+        en = Speed
+        nl = Snelheid
+    [transparency]
+        de = Transparenz
+        en = Transparency
+        nl = Transparantie
+    [legend]
+        de = Legende
+        en = Legend
+        nl = Legenda
+    [maptype_map]
+        de = Standard
+        en = Map
+        nl = Kaart
+    [maptype_satellite]
+        de = Satellit
+        en = Satellite
+        nl = Satelliet
+    [maptype_both]
+        de = Hybrid
+        en = Both
+        nl = Beide
+    [maptype_terrain]
+        de = Begründung
+        en = Terrain
+        nl = Terrein
+    [map_provider]
+        de = Kartenprovider
+        en = Map Provider
+        nl = Kaartprovider
+    [map_type]
+        de = Karte
+        en = Map Type
+        nl = Kaarttype
+    [show_past_x]
+        de = Der letzten %@ zeigen
+        en = Show the past %@
+        nl = Toon de afgelopen %@
+    [show_future_x]
+        de = Die nächsten %@ an
+        en = Show next %@
+        nl = Toon de komende %@
+    [show_past]
+        de = Der letzten
+        en = Show past
+        nl = Toon afgelopen
+    [show_future]
+        de = Die nächsten
+        en = Show next
+        nl = Toon komende
+    [homescreen]
+        de = Homescreen
+        en = homescreen
+        nl = Beginscherm
+    [set_homescreen]
+        de = Stellt aktuelle Ansicht als Homescreen ein
+        en = Set current view as homescreen
+        nl = Stel huidige weergave in als beginscherm
+    [clock]
+        de = Zeit
+        en = Clock
+        nl = Klok
+    [clock_size]
+        en = Clock size
+        nl = Klok grootte
+    [x_interval]
+        de = %@ interval
+        en = %@ interval
+        nl = %@ interval
+    [clock_interval]
+        de = Zeitinterval
+        nl = Klok interval
+        en = Clock interval
+    [current_location]
+        en = Current Location
+        nl = Huidige locatie
+    [region]
+        en = Region
+        nl = Regio
+    [other]
+        en = Other
+        nl = Overige
+    [desktop_promo]
+        en = Available on the desktop at\nhttp://regenmelding.nl/
+        nl = Ook op de desktop beschikbaar:\nhttp://regenmelding.nl/
+    [info]
+        de = Info
+        en = Info
+        nl = Info
+    [version_x]
+        de = Version %@
+        en = Version %@
+        nl = Versie %@
+
+[[Graph]]
+    [graph]
+        de = Niederschlagsdiagramm
+        en = Graph
+        nl = Neerslaggrafiek
+    [graph_off]
+        de = Aus
+        en = Off
+        nl = Uit
+    [graph_gps]
+        de = GPS
+        en = GPS
+        nl = GPS
+    [graph_fixed]
+        de = Fester
+        en = Fixed
+        nl = Vast
+    [graph_location_explain]
+        en = Set at which location the graph\nshows precipitation data.
+        nl = Bepaal op welke locatie de grafiek de neerslag meet.
+    [graph_grip_explain]
+        en = Open the graph by pulling up the little gripper from the bottom left of the screen.
+        nl = Open de grafiek door het lipje links onderaan het beeldscherm naar rechts te trekken.
+    [graph_openatstartup]
+        de = Öffnen beim Start
+        en = Open at startup
+        nl = Open bij starten
+    [x_mm_per_hour]
+        de = %.1f mm/h
+        en = %.1f mm/h
+        nl = %.1f mm/u
+    [location_here]
+        en = Type location name here…
+        nl = Type locatienaam hier…
+    [crosshair]
+        en = Crosshair
+        nl = Kruis
+
+
+[[Alert Preferences]]
+    [alert]
+        de = Meldung
+        en = Alert
+        nl = Melding
+    [token_location]
+        de = (|Berlin|,52.516,13.416)
+        en = (|London|,51.507222,-0.1275)
+        nl = (|Amsterdam|,52.366667,4.9)
+    [location_name]
+        de = Ortsname
+        en = Location name
+        nl = Plaatsnaam
+    [inactive]
+        en = inactive
+        nl = inactief
+    [alert_summary]
+        de = %1$@, %2$@ vorher
+        en = %1$@, %2$@ in advance
+        nl = %1$@, %2$@ vooraf
+    [active]
+        de = Aktiv
+        en = Active
+        nl = Actief
+    [location]
+        de = Standort
+        en = Location
+        nl = Locatie
+    [fixed_location]
+        de = Fester Standort
+        en = Fixed location
+        nl = Vaste locatie
+    [track_me]
+        de = Folge mir
+        en = Track me
+        nl = Volg mij
+    [coordinate_x_y]
+        de = %.4f N, %.4f O
+        en = %1$.4f N, %2$.4f E
+        nl = %1$.4f NB, %2$.4f OL
+    [trackme_adverse_battery]
+        de = Dieser Option sendet Ihren Standort nach den Push Server wen Sie beweget.\nMerke das dieser Option Nachteilig sein kann für Ihren Akku-Laufzeit.
+        en = This option periodically sends your location over the internet.\nThis will adversely impact your battery life
+        nl = Met deze optie wordt uw locatie naar de push server gestuurd als u zich verplaatst.\nLet op dat dit ten koste kan gaan van uw batterijduur.
+    [time_advance]
+        de = Vorwarnzeit
+        en = Time in Advance
+        nl = Tijd vooraf
+    [trigger]
+        de = Warne nur bei
+        en = Trigger
+        nl = Waarschuw pas bij
+
+    [intensity_cloudburst]
+        de = Wolkenbruch
+        en = Cloudburst
+        nl = Wolkbreuk
+    [intensity_very_heavy]
+        de = Sehr starker Niederschlag
+        en = Extremely Heavy Rainfall
+        nl = Zeer zware neerslag
+    [intensity_heavy]
+        de = Starker Niederschlag
+        en = Heavy Rainfall
+        nl = Zware neerslag
+    [intensity_medium]
+        de = Mäßiger Niederschlag
+        en = Medium Rainfall
+        nl = Matige neerslag
+    [intensity_light]
+        de = Leichter Niederschlag
+        en = Light Rainfall
+        nl = Lichte neerslag
+    [intensity_none]
+        de = Kein Niederschlag
+        en = No Rainfall
+        nl = Geen neerslag
+    [cooldown]
+        de = Maximal 1 Push pro
+        en = At Most 1 Push Per
+        nl = Maximaal 1 push per
+
+    [time_active]
+        de = Aktive Zeit
+        en = Time Active
+        nl = Tijd actief
+    [from_x_till_x]
+        de = von %@\nbis %@ Uhr
+        en = From %@\nTill %@
+        nl = van %@\ntot %@
+    [always_active]
+        de = Immer aktiv
+        en = Always active
+        nl = Altijd actief
+    [active_from]
+        de = Aktiv ab
+        en = Active From
+        nl = Actief van
+    [active_until]
+        de = Aktiv bis
+        en = Active Until
+        nl = Actief tot
+
+    [sound]
+        de = Töne
+        en = Sound
+        nl = Geluid
+    [more_info]
+        de = Mehr Info
+        en = More Info
+        nl = Meer info
+    [delete]
+        de = Löschen
+        en = Delete
+        nl = Verwijder
+
+
+[[Sounds]]
+    [sound_nosound]
+        de = Lautlos
+        en = No sound
+        nl = Geen geluid
+    [sound_default]
+        de = Standard
+        en = Default
+        nl = Standaard
+    [sound_bubbles]
+        de = Blubbern
+        en = Bubbles
+        nl = Bubbels
+    [sound_thunder]
+        de = Donner
+        en = Thunder
+        nl = Donder
+    [sound_drip1]
+        de = Tropfen 1
+        en = Drip 1
+        nl = Drup 1
+    [sound_drip2]
+        de = Tropfen 2
+        en = Drip 2
+        nl = Drup 2
+    [sound_drip3]
+        de = Tropfen 3
+        en = Drip 3
+        nl = Drup 3
+    [sound_rain1]
+        de = Regen 1
+        en = Rain 1
+        nl = Regen 1
+    [sound_rain2]
+        de = Regen 2
+        en = Rain 2
+        nl = Regen 2
+    [sound_rain3]
+        de = Regen 3
+        en = Rain 3
+        nl = Regen 3
+    [sound_splash1]
+        de = Spritzer 1
+        en = Splash 1
+        nl = Splash 1
+    [sound_splash2]
+        de = Spritzer 2
+        en = Splash 2
+        nl = Splash 2
+    [sound_rivulet]
+        de = Fluss
+        nl = Stroompje
+        en = Rivulet
+
+[[Time Designations]]
+    [one_minute]
+        de = 1 Minute
+        en = 1 minute
+        nl = 1 minuut
+    [x_minutes]
+        de = %d Minuten
+        en = %d minutes
+        nl = %d minuten
+    [one_hour]
+        de = 1 Stunde
+        en = 1 hour
+        nl = 1 uur
+    [x_hours]
+        de = %d Stunden
+        en = %d hours
+        nl = %d uur
+
+
+[[More Info]]
+    [loading]
+        de = Herunterladen…
+        en = Loading…
+        nl = Laden…
+    [around_x_above_x]
+        de = Um %@ Uhr ist die Wettervorhersage über %@
+        en = Around %1$@ the expected weather situation above %2$@ will be:
+        nl = Rond %1$@ is de verwachte weersituatie boven %2$@:
+    [expected_is]
+        de = Die ermittelte Niederschlagintensität ist den:
+        en = At that time the average precipitation is:
+        nl = De gemiddelde intensiteit van de neerslag is dan:
+    [trigger_is]
+        de = Sie bekommen ein Push Nachricht beim:
+        en = You will be warned at:
+        nl = U wordt pas gewaarschuwd bij:
+    [no_push_before]
+        de = Sie haben bisher noch keine Push Nachricht empfangen
+        en = You have not received a push alert yet
+        nl = U heeft nog geen push bericht ontvangen
+    [last_push_send_x]
+        de = Letzte Push Nachricht gesendet am: %@
+        en = Last push was sent to you at: %@
+        nl = Laatste push bericht is naar u verstuurd op: %@
+    [no_push_until_x]
+        de = Sie haben eingestellt keine Push Nachrichten zu empfangen bis %@
+        en = No push will be sent before %@
+        nl = Er wordt geen push bericht verstuurd voor %@
+    [only_push_between_x_and_x]
+        de = Sie haben eingestellt nur Push Nachrichten zu bekommen zwischen %@ und %@.
+        en = Push alerts will only be sent between %1$@ and %2$@.
+        nl = Er worden alleen push berichten verstuurd tussen %1$@ en %2$@.
+    [push_when_dry]
+        de = Sie bekommen wieder Push Nachrichten nachdem es trocknen gewesen ist.
+        en = Push alerts won't be send until it has been dry
+        nl = Push berichten worden pas weer verstuurd als het droog is geweest.
+    [push_when_trigger]
+        de = Die nächste Push Nachricht wird gesendet wenn die ermittelte Regenintensität höher ist als Ihre eingestellte Benachrichtigung.
+        en = The next push will be send when the average rain intensity is above the trigger setting.
+        nl = De volgende push wordt verstuurd zodra de gemiddelde intensiteit boven uw waarschuwingsinstelling komt.
+    [problem_downloading_moreinfo]
+        de = Verbindungsproblem, Information kann nicht geladen werden.
+        en = Could not download information… Try again later.
+        nl = Informatie kon niet worden gedownload… Probeer later opnieuw.
+    [no_device_token]
+        de = deviceToken konnte nicht eingeholt werden
+        en = Could not retrieve device token
+        nl = Kon deviceToken niet ophalen
+
+[[Crashes]]
+    [CrashDataFoundTitle]
+        nl = Crashdata gevonden
+        en = Crashdata found
+        de = Regenmeldung unerwartet beendet
+
+    [CrashDataFoundDescription]
+        nl = Regenmelding is gecrasht. Wilt u de ontwikkelaars anonieme data sturen zodat zij kunnen proberen de problemen op te lossen?
+        en = Would you like to send an anonymous report so we can fix the problem?
+        de = Möchten Sie einen anonymen Absturzbericht senden, damit wir das Problem beheben können?
+
+    [CrashSendReportAlways]
+        nl = Altijd versturen
+        en = Send always
+        de = Immer senden
+
+    [CrashSendReport]
+        nl = Verstuur
+        en = Send
+        de = Bericht senden
+
+    [CrashDontSendReport]
+        nl = Verstuur niet
+        en = Don't send
+        de = Nicht senden
+
+    [CrashReportSending]
+        nl = Zenden…
+        en = Sending…
+        de = Senden…
+
+    [CrashResponseTitleOK]
+        nl = OK
+        en = OK
+        de = OK
