@@ -18,60 +18,78 @@
 
 [[Messages]]
     [message_title]
+        de = Regenmeldung für %@
         en = Rain alert for %@
         comment = Notifications
         nl = Regenmelding voor %@
     [message_short]
+        de = %1$.1f mm/Std. %2$@ (%3$@)
         en = %1$.1f mm/h %2$@ (%3$@)
         nl = %1$.1f mm/u %2$@ (%3$@)
     [message_long]
+        de = Es wird %1$@ (%2$.1f mm/Std) um circa %3$@ %4$@.
         en = There will be %1$@ (%2$.1f mm/h) around %3$@ %4$@.
         nl = Er %1$@ (%2$.1f mm/u) rond %3$@ %4$@.
     [message_cloudburst]
+        de = ein Wolkenbruch
         en = a cloudburst
         nl = breekt een wolkbreuk uit
     [message_very_heavy]
+        de = sehr starker Niederschlag
         en = extremely heavy rainfall
         nl = valt zware neerslag
     [message_heavy]
+        de = starker Niederschlag
         en = heavy rainfall
         nl = valt zware neerslag
     [message_medium]
+        de = mittlerer Niederschlag
         en = medium rainfall
         nl = valt matige neerslag
     [message_light]
+        de = leichter Niederschlag
         en = light rainfall
         nl = valt lichte neerslag
     [at_your_location]
+        de = an Ihrem Standort
         en = at your location
         nl = op uw locatie
     [duration]
+        de = Dauer: %1$@ %2$d Minuten
         en = Duration: %1$@ %2$d minutes
         nl = Duur: %1$@ %2$d minuten
     [approx]
+        de = umgefähr
         en = approximately
         nl = ongeveer
     [morethan]
+        de = mehr als
         en = more than
         nl = meer dan
     [expired_title]
+        de = '%@' nicht merh aktiv
         en = '%@' deactivated
         nl = '%@' niet meer actief
     [expired_short]
+        de = Upgrade für immer-aktive Meldungen
         en = Upgrade for always-active alerts
         nl = Upgrade voor altijd-actief meldingen
     [expired_long]
+        de = Ihre Meldungen für %@ ist nicht mehr aktiv. Bitte erwerben Sie die Vollversion um Ihre Meldungen dauerhaft nutzen zu können.
         en = Your alert for %@ is now no longer active. Please buy the full version for alerts that always stay active.
         nl = Uw melding voor %@ is nu niet meer actief. Als u de volledige versie koopt blijven meldingen wel altijd actief.
 
 [[Main View]]
     [pause]
+        de = Pause
         en = Pause
         nl = Pauze
     [share]
+        de = teilen
         en = Share
         nl = Delen
     [progress]
+        de = Fortschritt
         en = Progress
         nl = Voortgang
 
@@ -81,9 +99,11 @@
         en = An error occurred while downloading.
         nl = Er heeft zich een fout voorgedaan tijdens het downloaden.
     [proxy_warning]
+        de = Downloadfehler. Überprüfen Sie ob die aktuelle Browserverbindung eine Login benötigt.
         en = Error while downloading. Check in your browser if your current connection requires logging in.
         nl = Fout tijdens downloaden. Controleer in uw browser of er voor uw huidige verbinding inloggen is vereist.
     [new_version_warning]
+        de = Eine neue Version von Rain Alerts ist verfügbar. Bitte führen Sie ein Update aus.
         en = A new version of Rain Alerts is available. Please update this app.
         nl = Er is een nieuwe versie van Regenmelding beschikbaar.
     [error_posting_settings]
@@ -107,21 +127,27 @@
 
 [[Upgrade]]
     [upgrade]
+        de = Upgrade
         en = Upgrade
         nl = Upgrade
     [thanks_for_purchase]
+        de = Vielen Dank für Ihren Kauf. Sie nutzen ab sofort die Vollversion!
         en = Thank you for your purchase, you are now using the full version!
         nl = Bedankt voor uw aanschaf! U gebruikt nu de volledige versie.
     [unable_to_purchase]
+        de = Beim Kauf ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal.
         en = An error occurred while trying to purchase. Please try again later.
         nl = Er heeft zich een fout voorgedaan tijdens de aankoop. Probeer het later opnieuw.
     [explain_upgrade]
+        de = Sie nutzen die kostenfreie Version. Durch den Erwerb der Vollversion werden die Werbeeinblendung entfernt und die Pushmeldungen arbeiten ohne Einschränkungen.
         en = You are using the free version. If you upgrade to the full version, ads will be removed and alerts will work indefinitely.
         nl = U gebruikt de gratis versie. Als u naar de volledige versie upgrade heeft u geen reclames meer en blijven meldingen altijd actief.
     [upgrade_to_full_version]
+        de = Upgrade zu\nVollversion
         en = Upgrade to\nfull version
         nl = Upgrade naar\nvolledige versie
     [upgrade_widget]
+        de = Dies ist die kostenfreie Version\nErwerben Sie die Vollversion um diese Meldung nicht mehr angezeigt zu bekommen
         en = This is the free version\nUpgrade to the full version to remove this message
         nl = Dit is de gratis versie.\nUpgrade naar de volledige versie om dit bericht weg te halen
 
@@ -244,10 +270,11 @@
         en = Clock
         nl = Klok
     [clock_size]
+        de = Uhrgröße
         en = Clock size
         nl = Klok grootte
     [x_interval]
-        de = %@ interval
+        de = %@ Interval
         en = %@ interval
         nl = %@ interval
     [clock_interval]
@@ -255,15 +282,19 @@
         nl = Klok interval
         en = Clock interval
     [current_location]
+        de = aktueller Standort
         en = Current Location
         nl = Huidige locatie
     [region]
+        de = Region
         en = Region
         nl = Regio
     [other]
+        de = Andere
         en = Other
         nl = Overige
     [desktop_promo]
+        de = Auf dem Desktop verfügbar unter:\nhttp://regenmelding.nl/
         en = Available on the desktop at\nhttp://regenmelding.nl/
         nl = Ook op de desktop beschikbaar:\nhttp://regenmelding.nl/
     [info]
@@ -293,9 +324,11 @@
         en = Fixed
         nl = Vast
     [graph_location_explain]
+        de = Einstellung an welcher Stelle die Grafik\ndie Niederschlagsmenge darstellt.
         en = Set at which location the graph\nshows precipitation data.
         nl = Bepaal op welke locatie de grafiek de neerslag meet.
     [graph_grip_explain]
+        de = Öffnen Sie die Grafik durch ziehen der kleinen Bande an der oberen linken Kante des Bildschirms.
         en = Open the graph by pulling up the little gripper from the bottom left of the screen.
         nl = Open de grafiek door het lipje links onderaan het beeldscherm naar rechts te trekken.
     [graph_openatstartup]
@@ -307,9 +340,11 @@
         en = %.1f mm/h
         nl = %.1f mm/u
     [location_here]
+        de = Hier Standortnamen eingeben…
         en = Type location name here…
         nl = Type locatienaam hier…
     [crosshair]
+        de = Kreuz
         en = Crosshair
         nl = Kruis
 
@@ -328,6 +363,7 @@
         en = Location name
         nl = Plaatsnaam
     [inactive]
+        de = inaktiv
         en = inactive
         nl = inactief
     [alert_summary]
@@ -355,7 +391,7 @@
         en = %1$.4f N, %2$.4f E
         nl = %1$.4f NB, %2$.4f OL
     [trackme_adverse_battery]
-        de = Dieser Option sendet Ihren Standort nach den Push Server wen Sie beweget.\nMerke das dieser Option Nachteilig sein kann für Ihren Akku-Laufzeit.
+        de = Diese Option sendet regelmäßig Ihren Standort an den Server.\nBitte beachten Sie, dass sich dies nachteilig auf den Stromverbrauch auswirkt.
         en = This option periodically sends your location over the internet.\nThis will adversely impact your battery life
         nl = Met deze optie wordt uw locatie naar de push server gestuurd als u zich verplaatst.\nLet op dat dit ten koste kan gaan van uw batterijduur.
     [time_advance]
@@ -506,7 +542,7 @@
 
 [[More Info]]
     [loading]
-        de = Herunterladen…
+        de = Lädt…
         en = Loading…
         nl = Laden…
     [around_x_above_x]
@@ -514,11 +550,11 @@
         en = Around %1$@ the expected weather situation above %2$@ will be:
         nl = Rond %1$@ is de verwachte weersituatie boven %2$@:
     [expected_is]
-        de = Die ermittelte Niederschlagintensität ist den:
+        de = Die ermittelte Niederschlagintensität ist:
         en = At that time the average precipitation is:
         nl = De gemiddelde intensiteit van de neerslag is dan:
     [trigger_is]
-        de = Sie bekommen ein Push Nachricht beim:
+        de = Sie bekommen ein Push Nachricht bei:
         en = You will be warned at:
         nl = U wordt pas gewaarschuwd bij:
     [no_push_before]
@@ -538,7 +574,7 @@
         en = Push alerts will only be sent between %1$@ and %2$@.
         nl = Er worden alleen push berichten verstuurd tussen %1$@ en %2$@.
     [push_when_dry]
-        de = Sie bekommen wieder Push Nachrichten nachdem es trocknen gewesen ist.
+        de = Sie bekommen wieder Push Nachrichten nachdem es trocken gewesen ist.
         en = Push alerts won't be send until it has been dry
         nl = Push berichten worden pas weer verstuurd als het droog is geweest.
     [push_when_trigger]
