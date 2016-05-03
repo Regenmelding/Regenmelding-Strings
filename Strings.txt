@@ -30,6 +30,10 @@
         de = Es wird %1$@ (%2$.1f mm/Std) um circa %3$@ %4$@.
         en = There will be %1$@ (%2$.1f mm/h) around %3$@ %4$@.
         nl = Er %1$@ (%2$.1f mm/u) rond %3$@ %4$@.
+    [message_python]
+        de = Es wird {0} ({1:.1f} mm/Std) um circa {2} {3}.
+        en = There will be {0} ({1:.1f} mm/h) around {2} {3}.
+        nl = Er {0} ({1:.1f} mm/u) rond {2} {3}.
     [message_cloudburst]
         de = ein Wolkenbruch
         en = a cloudburst
@@ -58,6 +62,10 @@
         de = Dauer: %1$@ %2$d Minuten
         en = Duration: %1$@ %2$d minutes
         nl = Duur: %1$@ %2$d minuten
+    [duration_python]
+        de = Dauer: {0} {1:d} Minuten
+        en = Duration: {0} {1:d} minutes
+        nl = Duur: {0} {1:d} minuten
     [approx]
         de = umgefähr
         en = approximately
