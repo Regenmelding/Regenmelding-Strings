@@ -47,7 +47,7 @@
         en = heavy rainfall
         nl = valt zware neerslag
     [message_medium]
-        de = mittlerer Niederschlag
+        de = mittleren Niederschlag
         en = medium rainfall
         nl = valt matige neerslag
     [message_light]
@@ -67,7 +67,7 @@
         en = Duration: {0} {1:d} minutes
         nl = Duur: {0} {1:d} minuten
     [approx]
-        de = umgefähr
+        de = ungefähr
         en = approximately
         nl = ongeveer
     [morethan]
