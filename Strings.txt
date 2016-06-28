@@ -273,6 +273,10 @@
         de = Stellt aktuelle Ansicht als Homescreen ein
         en = Set current view as homescreen
         nl = Stel huidige weergave in als beginscherm
+    [homescreen_set]
+        de = aktuelle Ansicht Stellt als Homescreen
+        en = Current view set as homescreen
+        nl = Huidige weergave ingesteld als beginscherm
     [clock]
         de = Zeit
         en = Clock
