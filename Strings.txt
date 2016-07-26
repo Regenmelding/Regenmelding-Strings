@@ -267,11 +267,11 @@
         nl = Toon komende
     [homescreen]
         de = Homescreen
-        en = homescreen
+        en = Home screen
         nl = Beginscherm
     [set_homescreen]
         de = Stellt aktuelle Ansicht als Homescreen ein
-        en = Set current view as homescreen
+        en = Set current view as home screen
         nl = Stel huidige weergave in als beginscherm
     [homescreen_set]
         de = aktuelle Ansicht Stellt als Homescreen
