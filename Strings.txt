@@ -158,6 +158,9 @@
         de = Dies ist die kostenfreie Version\nErwerben Sie die Vollversion um diese Meldung nicht mehr angezeigt zu bekommen
         en = This is the free version\nUpgrade to the full version to remove this message
         nl = Dit is de gratis versie.\nUpgrade naar de volledige versie om dit bericht weg te halen
+    [widget_permission]
+        en = The Rain Alerts widget needs extra rights to work. Click here to grant them.
+        nl = De Regenmelding widget heeft extra rechten nodig. Klik hier om deze toe te staan.
 
 
 [[Settings]]
