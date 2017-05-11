@@ -160,6 +160,7 @@
         nl = Dit is de gratis versie.\nUpgrade naar de volledige versie om dit bericht weg te halen
     [widget_permission]
         en = The Rain Alerts widget needs extra rights to work. Click here to grant them.
+        de = The Rain Alerts widget needs extra rights to work. Click here to grant them.
         nl = De Regenmelding widget heeft extra rechten nodig. Klik hier om deze toe te staan.
 
 
