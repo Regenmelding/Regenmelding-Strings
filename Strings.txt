@@ -241,6 +241,10 @@
         de = Karte
         en = Map Type
         nl = Kaarttype
+    [show_lightning]
+        de = Blitz zeigen
+        en = Show lightning
+        nl = Toon bliksem
     [show_past_x]
         de = Der letzten %@ zeigen
         en = Show the past %@
