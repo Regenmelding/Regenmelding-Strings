@@ -86,6 +86,10 @@
         de = Ihre Meldungen für %@ ist nicht mehr aktiv. Bitte erwerben Sie die Vollversion um Ihre Meldungen dauerhaft nutzen zu können.
         en = Your alert for %@ is now no longer active. Please buy the full version for alerts that always stay active.
         nl = Uw melding voor %@ is nu niet meer actief. Als u de volledige versie koopt blijven meldingen wel altijd actief.
+    [expired_python]
+        de = Ihre Meldungen für {0} ist nicht mehr aktiv. Bitte erwerben Sie die Vollversion um Ihre Meldungen dauerhaft nutzen zu können.
+        en = Your alert for {0} is now no longer active. Please buy the full version for alerts that always stay active.
+        nl = Uw melding voor {0} is nu niet meer actief. Als u de volledige versie koopt blijven meldingen wel altijd actief.
 
 [[Main View]]
     [pause]
