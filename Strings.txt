@@ -129,7 +129,7 @@
     [try_again]
         de = Versuche es nochmals
         en = Try again
-        nl = Probeer opnieuw!
+        nl = Probeer opnieuw
     [ok]
         de = OK
         en = OK
