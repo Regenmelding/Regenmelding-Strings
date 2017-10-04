@@ -111,7 +111,7 @@
         en = An error occurred while downloading.
         nl = Er heeft zich een fout voorgedaan tijdens het downloaden.
     [itunes_login_error]
-        de = Sie müssen zuerst eingeloggt sein in den iTunes App Store um die ganze Version benutzen zu können.
+        de = Sie werden zuerst eingeloggt sein in den iTunes App Store um die ganze Version benutzen zu können.
         en = You have to log into the iTunes App Store to use the full version.
         nl = U moet inloggen in de iTunes App Store om de volledige versie te gebruiken.
     [proxy_warning]
