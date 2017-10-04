@@ -106,6 +106,10 @@
         nl = Voortgang
 
 [[Errors]]
+    [outage]
+        de = Bei unserem Datenanbieter liegt derzeit eine Störung vor. Die Bilder sind möglicherweise nicht aktuell.
+        en = There is currently an outage at our data supplier. Data might not be current anymore.
+        nl = Er is momenteel een storing bij onze dataleverancier. De beelden zijn mogelijk niet meer actueel.
     [download_error]
         de = Probleme mit der Internetverbindung
         en = An error occurred while downloading.
