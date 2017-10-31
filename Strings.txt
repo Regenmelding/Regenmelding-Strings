@@ -166,6 +166,10 @@
         de = Upgrade zu\nVollversion
         en = Upgrade to\nfull version
         nl = Upgrade naar\nvolledige versie
+    [upgrade_restore]
+        de = Restore upgrade
+        en = Restore upgrade
+        nl = Upgrade herstellen
     [upgrade_widget]
         de = Dies ist die kostenfreie Version\nErwerben Sie die Vollversion um diese Meldung nicht mehr angezeigt zu bekommen
         en = This is the free version\nUpgrade to the full version to remove this message
