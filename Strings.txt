@@ -118,6 +118,10 @@
         de = Sie werden zuerst eingeloggt sein in den iTunes Store um die ganze Version benutzen zu können.
         en = You have to log into the iTunes Store to use the full version.
         nl = U moet inloggen in de iTunes Store om de volledige versie te gebruiken.
+    [itunes_login_help]
+        de = If you are unable to log in, please try the following:\n- Uninstall Rain Alerts\n- Settings > iTunes and App Store > Apple ID > Logout\n- Log in again\n- Reinstall Rain Alerts
+        en = If you are unable to log in, please try the following:\n- Uninstall Rain Alerts\n- Settings > iTunes and App Store > Apple ID > Logout\n- Log in again\n- Reinstall Rain Alerts
+        nl = Als het niet lukt om in te loggen kunt u het volgende proberen:\n- Verwijder Regenmelding\n- Instellingen > iTunes en App Store > Apple ID > Log uit\n- Opnieuw inloggen\n- Regenmelding opnieuw installeren
     [proxy_warning]
         de = Downloadfehler. Überprüfen Sie ob die aktuelle Browserverbindung eine Login benötigt.
         en = Error while downloading. Check in your browser if your current connection requires logging in.
