@@ -350,8 +350,8 @@
 
     [about_text]
         de = Hallo! Mein Name ist Paul Wagener und seit 2013 entwickle ich die Regenmeldung App. Im "normalem" Leben arbeite ich selbstständig als Freelancer ind der Software Entwicklung und als IT Trainer.\n\nWenn Sie mit der Regenmeldung App zufrieden sind, wäre es schön, wenn Sie eine positive Bewertung im App Store abgeben und die App Ihren Freunden weiterempfehlen würden. \n\nSpezielles Dankeschön an\n❤️Anke❤️
-        en = Hello! My name is Paul Wagener, and since 2013 I'm maintaining the Rain Alerts app. In my daily life I'm a freelance software developer & IT trainer.\n\nIf you are satisfied with Rain Alerts, consider leaving a review on the App Store and telling your friends about it\n\nSpecial thanks to\n❤️Anke❤️
-        nl = Hallo! Mijn naam is Paul Wagener, en sinds 2013 onderhoud ik de Regenmelding app. In het dagelijks leven ben ik freelance software ontwikkelaar & IT trainer.\n\nHeeft u vragen of opmerkingen over Regenmelding? Of zoekt u nog een freelance IT'er? Neem dan contact op via mail@paulwagener.nl\n\nBent u tevreden over Regenmelding? Help ons door een review achter te laten in de App Store en je vrienden te vertellen over Regenmelding.\n\nSpeciale dank aan\n❤️Anke❤️
+        en = Hello! My name is Paul Wagener, and since 2013 I'm maintaining the Rain Alerts app. In my daily life I'm a freelance software developer & IT trainer.\n\nIf you are satisfied with Rain Alerts, consider leaving a review on the App Store and telling your friends about it\n\nSpecial thanks to all beta testers & \n❤️Anke❤️
+        nl = Hallo! Mijn naam is Paul Wagener, en sinds 2013 onderhoud ik de Regenmelding app. In het dagelijks leven ben ik freelance software ontwikkelaar & IT trainer.\n\nHeeft u vragen of opmerkingen over Regenmelding? Of zoekt u nog een freelance IT'er? Neem dan contact op via mail@paulwagener.nl\n\nBent u tevreden over Regenmelding? Help ons door een review achter te laten in de App Store en je vrienden te vertellen over Regenmelding.\n\nSpeciale dank aan alle beta testers & \n❤️Anke❤️
 
     [give_star_rating]
         de = Sternebewertung abgeben
