@@ -8,11 +8,11 @@
         nl = Regenmelding
         de = Regenmeldung
     [location_permission]
-        de = Standort ist für den blauen Punkt auf der Karte verwendet
+        de = Standort wird für den blauen Punkt auf der Karte verwendet
         en = Location is used for the blue dot on the map
         nl = Locatie wordt gebruikt voor de blauwe stip op de kaart
     [location_permission_background]
-        de = Standort ist für den blauen Punkt auf der Karte und den 'Folge mir' Meldungen genutzt
+        de = Standort wird für den blauen Punkt auf der Karte und der 'Folge mir'-Meldungen genutzt
         en = Location is used for the blue dot on the map and the 'Track me' alerts
         nl = Locatie wordt gebruikt voor de blauwe stip op de kaart en de 'Volg mij' meldingen
 
@@ -27,11 +27,11 @@
         en = %1$.1f mm/h %2$@ (%3$@)
         nl = %1$.1f mm/u %2$@ (%3$@)
     [message_long]
-        de = Es wird %1$@ (%2$.1f mm/Std) um circa %3$@ %4$@.
+        de = Es wird %1$@ (%2$.1f mm/Std) um circa %3$@ %4$@ geben.
         en = There will be %1$@ (%2$.1f mm/h) around %3$@ %4$@.
         nl = Er %1$@ (%2$.1f mm/u) rond %3$@ %4$@.
     [message_python]
-        de = Es wird {0} ({1:.1f} mm/Std) um circa {2} {3}.
+        de = Es wird {0} ({1:.1f} mm/Std) um circa {2} {3} geben.
         en = There will be {0} ({1:.1f} mm/h) around {2} {3}.
         nl = Er {0} ({1:.1f} mm/u) rond {2} {3}.
     [message_cloudburst]
@@ -47,7 +47,7 @@
         en = heavy rainfall
         nl = valt zware neerslag
     [message_medium]
-        de = mittleren Niederschlag
+        de = mittlerer Niederschlag
         en = medium rainfall
         nl = valt matige neerslag
     [message_light]
@@ -75,11 +75,11 @@
         en = more than
         nl = meer dan
     [expired_title]
-        de = '%@' nicht merh aktiv
+        de = '%@' nicht mehr aktiv
         en = '%@' deactivated
         nl = '%@' niet meer actief
     [expired_short]
-        de = Upgrade für immer-aktive Meldungen
+        de = Upgrade für "immer-aktive" Meldungen
         en = Upgrade for always-active alerts
         nl = Upgrade voor altijd-actief meldingen
     [expired_long]
@@ -97,7 +97,7 @@
         en = Pause
         nl = Pauze
     [share]
-        de = teilen
+        de = Teilen
         en = Share
         nl = Delen
     [progress]
@@ -115,19 +115,19 @@
         en = An error occurred while downloading.
         nl = Er heeft zich een fout voorgedaan tijdens het downloaden.
     [itunes_login_error]
-        de = Sie werden zuerst eingeloggt sein in den iTunes Store um die ganze Version benutzen zu können.
+        de = Sie müssen sich im App Store einloggen um die Vollversion nutzen zu können.
         en = You have to log into the iTunes Store to use the full version.
         nl = U moet inloggen in de iTunes Store om de volledige versie te gebruiken.
     [itunes_login_help]
-        de = If you are unable to log in, please try the following:\n- Uninstall Rain Alerts\n- Settings > iTunes and App Store > Apple ID > Logout\n- Log in again\n- Reinstall Rain Alerts
+        de = Sollten Sie sich nicht anmelden können, so versuchen Sie bitte folgende Schritte:\n- Deinstallieren Sie Regenmeldung\n- Einstellungen > iTunes und App Store > Apple ID > Logout\n- wieder einloggenn\n- Regenmeldung Neuinstallation
         en = If you are unable to log in, please try the following:\n- Uninstall Rain Alerts\n- Settings > iTunes and App Store > Apple ID > Logout\n- Log in again\n- Reinstall Rain Alerts
         nl = Als het niet lukt om in te loggen kunt u het volgende proberen:\n- Verwijder Regenmelding\n- Instellingen > iTunes en App Store > Apple ID > Log uit\n- Opnieuw inloggen\n- Regenmelding opnieuw installeren
     [proxy_warning]
-        de = Downloadfehler. Überprüfen Sie ob die aktuelle Browserverbindung eine Login benötigt.
+        de = Downloadfehler. Überprüfen Sie ob die aktuelle Browserverbindung einen Login benötigt.
         en = Error while downloading. Check in your browser if your current connection requires logging in.
         nl = Fout tijdens downloaden. Controleer in uw browser of er voor uw huidige verbinding inloggen is vereist.
     [new_version_warning]
-        de = Eine neue Version von Rain Alerts ist verfügbar. Bitte führen Sie ein Update aus.
+        de = Eine neue Version von Regenmeldung ist verfügbar. Bitte führen Sie ein Update aus.
         en = A new version of Rain Alerts is available. Please update this app.
         nl = Er is een nieuwe versie van Regenmelding beschikbaar.
     [error_posting_settings]
@@ -144,7 +144,7 @@
         nl = OK
 
     [need_push_permission]
-        de = Um Warnungen zu empfangen müssen Push Meldungen eingeschaltet sein. Installieren Sie die App neu, um die Einstellungen erneut zu wählen.
+        de = Um Warnungen zu empfangen müssen Push Meldungen eingeschaltet sein. Installieren Sie die App neu, um die Benachrichtigungen neu einstellen zu können oder gehen Sie über die Einstellungen in Mitteilungen um sie dort wieder zu erlauben.
         en = You need to give permission before you can use the Push alert functionality. Go to Settings > Notifications to give the Rain Alert application permissions.
         nl = U moet toestemming geven voor Push berichten om gebruik te maken van de waarschuwing functionaliteit. Herinstalleer de applicatie als u alsnog toestemming wenst te geven.
 
@@ -171,7 +171,7 @@
         en = Upgrade to\nfull version
         nl = Upgrade naar\nvolledige versie
     [upgrade_restore]
-        de = Restore upgrade
+        de = Upgradewiederherstellung
         en = Restore upgrade
         nl = Upgrade herstellen
     [upgrade_widget]
@@ -179,7 +179,7 @@
         en = This is the free version\nUpgrade to the full version to remove this message
         nl = Dit is de gratis versie.\nUpgrade naar de volledige versie om dit bericht weg te halen
     [widget_permission]
-        en = The Rain Alerts widget needs extra rights to work. Click here to grant them.
+        en = Das Regenmeldung Widget braucht zusätzliche Berechtigungen. Bitte hier Klicken um diese zu gewähren.
         de = The Rain Alerts widget needs extra rights to work. Click here to grant them.
         nl = De Regenmelding widget heeft extra rechten nodig. Klik hier om deze toe te staan.
 
@@ -250,7 +250,7 @@
         en = Legend
         nl = Legenda
     [maptype_map]
-        de = Standard
+        de = Karte
         en = Map
         nl = Kaart
     [maptype_satellite]
@@ -274,7 +274,7 @@
         en = Map Type
         nl = Kaarttype
     [show_lightning]
-        de = Blitz zeigen
+        de = Blitze anzeigen
         en = Show lightning
         nl = Toon bliksem
     [show_past_x]
@@ -286,7 +286,7 @@
         en = Show next %@
         nl = Toon de komende %@
     [show_past]
-        de = Der letzten
+        de = Die letzten
         en = Show past
         nl = Toon afgelopen
     [show_future]
@@ -302,7 +302,7 @@
         en = Set current view as home screen
         nl = Stel huidige weergave in als beginscherm
     [homescreen_set]
-        de = aktuelle Ansicht Stellt als Homescreen
+        de = aktuelle Ansicht als Homescreen eingestellt
         en = Current view set as homescreen
         nl = Huidige weergave ingesteld als beginscherm
     [clock]
@@ -322,7 +322,7 @@
         nl = Klok interval
         en = Clock interval
     [current_location]
-        de = aktueller Standort
+        de = Aktueller Standort
         en = Current Location
         nl = Huidige locatie
     [region]
@@ -348,22 +348,22 @@
 
 [[About]]
     [about_the_developer]
-        de = About the developer
+        de = Über den Entwickler
         en = About the developer
         nl = Over de ontwikkelaar
 
     [about_text]
-        de = Hello! My name is Paul Wagener, and since 2013 I'm maintaining the Rain Alerts app. In my daily life I'm a freelance software developer & IT trainer.\n\nIf you are satisfied with Rain Alerts, consider leaving a review on the App Store and telling your friends about it\n\nSpecial thanks to\n❤️Anke❤️
+        de = Hallo! Mein Name ist Paul Wagener und seit 2013 entwickle ich die Regenmeldung App. Im "normalem" Leben arbeite ich selbstständig als Freelancer ind der Software Entwicklung und als IT Trainer.\n\nWenn Sie mit der Regenmeldung App zufrieden sind, wäre es schön, wenn Sie eine positive Bewertung im App Store abgeben und die App Ihren Freunden weiterempfehlen würden. \n\nSpezielles Dankeschön an\n❤️Anke❤️
         en = Hello! My name is Paul Wagener, and since 2013 I'm maintaining the Rain Alerts app. In my daily life I'm a freelance software developer & IT trainer.\n\nIf you are satisfied with Rain Alerts, consider leaving a review on the App Store and telling your friends about it\n\nSpecial thanks to\n❤️Anke❤️
         nl = Hallo! Mijn naam is Paul Wagener, en sinds 2013 onderhoud ik de Regenmelding app. In het dagelijks leven ben ik freelance software ontwikkelaar & IT trainer.\n\nHeeft u vragen of opmerkingen over Regenmelding? Of zoekt u nog een freelance IT'er? Neem dan contact op via mail@paulwagener.nl\n\nBent u tevreden over Regenmelding? Help ons door een review achter te laten in de App Store en je vrienden te vertellen over Regenmelding.\n\nSpeciale dank aan\n❤️Anke❤️
 
     [give_star_rating]
-        de = Give a star rating
+        de = Sternebewertung abgeben
         en = Give a star rating
         nl = Star-rating geven
 
     [give_app_store_review]
-        de = Review in the App Store
+        de = Bewertung im App Store hinterlassen
         en = Review in the App Store
         nl = Review in de App Store geven
 
@@ -389,7 +389,7 @@
         en = Set at which location the graph\nshows precipitation data.
         nl = Bepaal op welke locatie de grafiek de neerslag meet.
     [graph_grip_explain]
-        de = Öffnen Sie die Grafik durch ziehen der kleinen Bande an der oberen linken Kante des Bildschirms.
+        de = Öffnen Sie die Grafik durch ziehen an der oberen linken Kante des Bildschirms.
         en = Open the graph by pulling up the little gripper from the bottom left of the screen.
         nl = Open de grafiek door het lipje links onderaan het beeldscherm naar rechts te trekken.
     [graph_openatstartup]
@@ -416,7 +416,7 @@
         en = Alert
         nl = Melding
     [token_location]
-        de = (|Berlin|,52.516,13.416)
+        de = (|Bonn|,50.709012,7.173580)
         en = (|London|,51.507222,-0.1275)
         nl = (|Amsterdam|,52.366667,4.9)
     [location_name]
@@ -424,7 +424,7 @@
         en = Location name
         nl = Plaatsnaam
     [inactive]
-        de = inaktiv
+        de = Inaktiv
         en = inactive
         nl = inactief
     [alert_summary]
@@ -615,11 +615,11 @@
         en = At that time the average precipitation is:
         nl = De gemiddelde intensiteit van de neerslag is dan:
     [trigger_is]
-        de = Sie bekommen ein Push Nachricht bei:
+        de = Sie bekommen eine Push Nachricht bei:
         en = You will be warned at:
         nl = U wordt pas gewaarschuwd bij:
     [no_push_before]
-        de = Sie haben bisher noch keine Push Nachricht empfangen
+        de = Sie haben bisher noch keine Push Nachrichten empfangen
         en = You have not received a push alert yet
         nl = U heeft nog geen push bericht ontvangen
     [last_push_send_x]
@@ -660,7 +660,7 @@
     [CrashDataFoundDescription]
         nl = Regenmelding is gecrasht. Wilt u de ontwikkelaars anonieme data sturen zodat zij kunnen proberen de problemen op te lossen?
         en = Would you like to send an anonymous report so we can fix the problem?
-        de = Möchten Sie einen anonymen Absturzbericht senden, damit wir das Problem beheben können?
+        de = Möchten Sie einen anonymen Absturzbericht senden, damit wir das Problem analysieren können?
 
     [CrashSendReportAlways]
         nl = Altijd versturen
