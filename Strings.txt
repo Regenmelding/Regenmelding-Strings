@@ -178,10 +178,6 @@
         de = Dies ist die kostenfreie Version\nErwerben Sie die Vollversion um diese Meldung nicht mehr angezeigt zu bekommen
         en = This is the free version\nUpgrade to the full version to remove this message
         nl = Dit is de gratis versie.\nUpgrade naar de volledige versie om dit bericht weg te halen
-    [widget_permission]
-        en = Das Regenmeldung Widget braucht zusätzliche Berechtigungen. Bitte hier Klicken um diese zu gewähren.
-        de = The Rain Alerts widget needs extra rights to work. Click here to grant them.
-        nl = De Regenmelding widget heeft extra rechten nodig. Klik hier om deze toe te staan.
 
 
 [[Settings]]
@@ -388,10 +384,6 @@
         de = Einstellung an welcher Stelle die Grafik\ndie Niederschlagsmenge darstellt.
         en = Set at which location the graph\nshows precipitation data.
         nl = Bepaal op welke locatie de grafiek de neerslag meet.
-    [graph_grip_explain]
-        de = Öffnen Sie die Grafik durch ziehen an der oberen linken Kante des Bildschirms.
-        en = Open the graph by pulling up the little gripper from the bottom left of the screen.
-        nl = Open de grafiek door het lipje links onderaan het beeldscherm naar rechts te trekken.
     [graph_openatstartup]
         de = Öffnen beim Start
         en = Open at startup
@@ -650,39 +642,3 @@
         de = deviceToken konnte nicht eingeholt werden
         en = Could not retrieve device token
         nl = Kon deviceToken niet ophalen
-
-[[Crashes]]
-    [CrashDataFoundTitle]
-        nl = Crashdata gevonden
-        en = Crashdata found
-        de = Regenmeldung unerwartet beendet
-
-    [CrashDataFoundDescription]
-        nl = Regenmelding is gecrasht. Wilt u de ontwikkelaars anonieme data sturen zodat zij kunnen proberen de problemen op te lossen?
-        en = Would you like to send an anonymous report so we can fix the problem?
-        de = Möchten Sie einen anonymen Absturzbericht senden, damit wir das Problem analysieren können?
-
-    [CrashSendReportAlways]
-        nl = Altijd versturen
-        en = Send always
-        de = Immer senden
-
-    [CrashSendReport]
-        nl = Verstuur
-        en = Send
-        de = Bericht senden
-
-    [CrashDontSendReport]
-        nl = Verstuur niet
-        en = Don't send
-        de = Nicht senden
-
-    [CrashReportSending]
-        nl = Zenden…
-        en = Sending…
-        de = Senden…
-
-    [CrashResponseTitleOK]
-        nl = OK
-        en = OK
-        de = OK
