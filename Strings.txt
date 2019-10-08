@@ -330,9 +330,9 @@
         en = Other
         nl = Overige
     [desktop_promo]
-        de = Auf dem Desktop verfügbar unter:\nhttp://regenmelding.nl/
-        en = Available on the desktop at\nhttp://regenmelding.nl/
-        nl = Ook op de desktop beschikbaar:\nhttp://regenmelding.nl/
+        de = Auf dem Desktop verfügbar unter:\nhttps://regenmelding.nl/
+        en = Available on the desktop at\nhttps://regenmelding.nl/
+        nl = Ook op de desktop beschikbaar:\nhttps://regenmelding.nl/
     [info]
         de = Info
         en = Info
