@@ -363,6 +363,16 @@
         en = Review in the App Store
         nl = Review in de App Store geven
 
+    [facebook]
+        de = Facebook
+        en = Facebook
+        nl = Facebook
+
+    [twitter]
+        de = Twitter
+        en = Twitter
+        nl = Twitter
+
 [[Graph]]
     [graph]
         de = Niederschlagsdiagramm
