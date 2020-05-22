@@ -580,17 +580,17 @@
         en = 1 minute
         nl = 1 minuut
     [x_minutes]
-        de = %d Minuten
-        en = %d minutes
-        nl = %d minuten
+        de = %.0f Minuten
+        en = %.0f minutes
+        nl = %.0f minuten
     [one_hour]
         de = 1 Stunde
         en = 1 hour
         nl = 1 uur
     [x_hours]
-        de = %d Stunden
-        en = %d hours
-        nl = %d uur
+        de = %.0f Stunden
+        en = %.0f hours
+        nl = %.0f uur
 
 
 [[More Info]]
