@@ -134,6 +134,7 @@
         de = Verbindungsproblem. Push Einstellungen können nicht geändert werden.
         en = Unable to send alert settings. Please try again later.
         nl = Uw melding instellingen konden niet naar de server worden verstuurd. Probeer het later opnieuw.
+
     [try_again]
         de = Versuche es nochmals
         en = Try again
@@ -147,6 +148,23 @@
         de = Um Warnungen zu empfangen müssen Push Meldungen eingeschaltet sein. Installieren Sie die App neu, um die Benachrichtigungen neu einstellen zu können oder gehen Sie über die Einstellungen in Mitteilungen um sie dort wieder zu erlauben.
         en = You need to give permission before you can use the Push alert functionality. Go to Settings > Notifications to give the Rain Alert application permissions.
         nl = U moet toestemming geven voor Push berichten om gebruik te maken van de waarschuwing functionaliteit. Herinstalleer de applicatie als u alsnog toestemming wenst te geven.
+
+    [notification_permission_title]
+        de = Es wird keine Erlaubnis gegeben
+        en = No permission given
+        nl = Geen toestemming gegeven
+    [notification_permission_body]
+        de = Um eine Meldung zu bekommen sollen Sie zuerst die Berechtigung in den Einstellungen erteilen.
+        en = For alerts you first have to give permission in the settings
+        nl = Voor meldingen moet u eerst toestemming geven in de instellingen
+    [not_now]
+        de = Nicht jetzt
+        en = Not now
+        nl = Niet nu
+    [to_settings]
+        de = Zu Einstellungen
+        en = To Settings
+        nl = Naar Instellingen
 
 
 [[Upgrade]]
