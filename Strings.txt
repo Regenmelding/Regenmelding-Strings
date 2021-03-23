@@ -8,13 +8,13 @@
         nl = Regenmelding
         de = Regenmeldung
     [location_permission]
-        de = Standort wird für den blauen Punkt auf der Karte verwendet
-        en = Location is used for the blue dot on the map
-        nl = Locatie wordt gebruikt voor de blauwe stip op de kaart
+        de = Standort wird für eine lokalisierte Niederschlagsvorhersage verwendet
+        en = Location is used for a localized precipitation forecast
+        nl = Locatie wordt gebruikt voor een gelokaliseerde neerslagvoorspelling
     [location_permission_background]
-        de = Standort wird für den blauen Punkt auf der Karte und der 'Folge mir'-Meldungen genutzt
-        en = Location is used for the blue dot on the map and the 'Track me' alerts
-        nl = Locatie wordt gebruikt voor de blauwe stip op de kaart en de 'Volg mij' meldingen
+        de = Standort wird für eine lokalisierte Niederschlagsvorhersage und der 'Folge mir'-Meldungen genutzt
+        en = Location is used for a localized precipitation forecast and the 'Track me' alerts
+        nl = Locatie wordt gebruikt voor een gelokaliseerde neerslagvoorspelling en de 'Volg mij' meldingen
 
 [[Messages]]
     [message_title]
