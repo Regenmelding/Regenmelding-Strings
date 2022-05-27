@@ -153,6 +153,12 @@
         en = You need to give permission before you can use the Push alert functionality. Go to Settings > Notifications to give the Rain Alert application permissions.
         nl = U moet toestemming geven voor Push berichten om gebruik te maken van de waarschuwing functionaliteit. Herinstalleer de applicatie als u alsnog toestemming wenst te geven.
 
+    [need_location_permission]
+        de = Keine Standortberechtigung erteilt, gehen Sie zu den Datenschutzeinstellungen des Systems, um diese Berechtigung für Regenmeldung zu aktivieren
+        en = No location permission given, go to the system privacy settings to enable this permission for Rain Alerts
+        nl = Geen locatie rechten gegeven, ga naar de privacy instellingen om locatierechten toe te kennen aan Regenmelding
+
+
     [notification_permission_title]
         de = Es wird keine Erlaubnis gegeben
         en = No permission given
