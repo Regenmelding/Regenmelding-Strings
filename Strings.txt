@@ -8,13 +8,13 @@
         nl = Regenmelding
         de = Regenmeldung
     [location_permission]
-        de = Standort wird für den blauen Punkt auf der Karte verwendet
-        en = Location is used for the blue dot on the map
-        nl = Locatie wordt gebruikt voor de blauwe stip op de kaart
+        de = Standort wird für eine lokalisierte Niederschlagsvorhersage verwendet
+        en = Location is used for a localized precipitation forecast
+        nl = Locatie wordt gebruikt voor een gelokaliseerde neerslagvoorspelling
     [location_permission_background]
-        de = Standort wird für den blauen Punkt auf der Karte und der 'Folge mir'-Meldungen genutzt
-        en = Location is used for the blue dot on the map and the 'Track me' alerts
-        nl = Locatie wordt gebruikt voor de blauwe stip op de kaart en de 'Volg mij' meldingen
+        de = Standort wird für eine lokalisierte Niederschlagsvorhersage und der 'Folge mir'-Meldungen genutzt
+        en = Location is used for a localized precipitation forecast and the 'Track me' alerts
+        nl = Locatie wordt gebruikt voor een gelokaliseerde neerslagvoorspelling en de 'Volg mij' meldingen
 
 [[Messages]]
     [message_title]
@@ -138,6 +138,7 @@
         de = Verbindungsproblem. Push Einstellungen können nicht geändert werden.
         en = Unable to send alert settings. Please try again later.
         nl = Uw melding instellingen konden niet naar de server worden verstuurd. Probeer het later opnieuw.
+
     [try_again]
         de = Versuche es nochmals
         en = Try again
@@ -151,6 +152,23 @@
         de = Um Warnungen zu empfangen müssen Push Meldungen eingeschaltet sein. Installieren Sie die App neu, um die Benachrichtigungen neu einstellen zu können oder gehen Sie über die Einstellungen in Mitteilungen um sie dort wieder zu erlauben.
         en = You need to give permission before you can use the Push alert functionality. Go to Settings > Notifications to give the Rain Alert application permissions.
         nl = U moet toestemming geven voor Push berichten om gebruik te maken van de waarschuwing functionaliteit. Herinstalleer de applicatie als u alsnog toestemming wenst te geven.
+
+    [notification_permission_title]
+        de = Es wird keine Erlaubnis gegeben
+        en = No permission given
+        nl = Geen toestemming gegeven
+    [notification_permission_body]
+        de = Um eine Meldung zu bekommen sollen Sie zuerst die Berechtigung in den Einstellungen erteilen.
+        en = For alerts you first have to give permission in the settings
+        nl = Voor meldingen moet u eerst toestemming geven in de instellingen
+    [not_now]
+        de = Nicht jetzt
+        en = Not now
+        nl = Niet nu
+    [to_settings]
+        de = Zu Einstellungen
+        en = To Settings
+        nl = Naar Instellingen
 
 
 [[Upgrade]]
@@ -358,8 +376,8 @@
 
     [about_text]
         de = Hallo! Mein Name ist Paul Wagener und seit 2013 entwickle ich die Regenmeldung App. Im "normalem" Leben arbeite ich selbstständig als Freelancer ind der Software Entwicklung und als IT Trainer.\n\nWenn Sie mit der Regenmeldung App zufrieden sind, wäre es schön, wenn Sie eine positive Bewertung im App Store abgeben und die App Ihren Freunden weiterempfehlen würden. \n\nSpezielles Dankeschön an\n❤️Anke❤️
-        en = Hello! My name is Paul Wagener, and since 2013 I'm maintaining the Rain Alerts app. In my daily life I'm a freelance software developer & IT trainer.\n\nIf you are satisfied with Rain Alerts, consider leaving a review on the App Store and telling your friends about it\n\nSpecial thanks to\n❤️Anke❤️
-        nl = Hallo! Mijn naam is Paul Wagener, en sinds 2013 onderhoud ik de Regenmelding app. In het dagelijks leven ben ik freelance software ontwikkelaar & IT trainer.\n\nHeeft u vragen of opmerkingen over Regenmelding? Of zoekt u nog een freelance IT'er? Neem dan contact op via mail@paulwagener.nl\n\nBent u tevreden over Regenmelding? Help ons door een review achter te laten in de App Store en je vrienden te vertellen over Regenmelding.\n\nSpeciale dank aan\n❤️Anke❤️
+        en = Hello! My name is Paul Wagener, and since 2013 I'm maintaining the Rain Alerts app. In my daily life I'm a freelance software developer & IT trainer.\n\nIf you are satisfied with Rain Alerts, consider leaving a review on the App Store and telling your friends about it\n\nSpecial thanks to all beta testers & \n❤️Anke❤️
+        nl = Hallo! Mijn naam is Paul Wagener, en sinds 2013 onderhoud ik de Regenmelding app. In het dagelijks leven ben ik freelance software ontwikkelaar & IT trainer.\n\nHeeft u vragen of opmerkingen over Regenmelding? Of zoekt u nog een freelance IT'er? Neem dan contact op via mail@paulwagener.nl\n\nBent u tevreden over Regenmelding? Help ons door een review achter te laten in de App Store en je vrienden te vertellen over Regenmelding.\n\nSpeciale dank aan alle beta testers & \n❤️Anke❤️
 
     [give_star_rating]
         de = Sternebewertung abgeben
@@ -598,17 +616,17 @@
         en = 1 minute
         nl = 1 minuut
     [x_minutes]
-        de = %d Minuten
-        en = %d minutes
-        nl = %d minuten
+        de = %.0f Minuten
+        en = %.0f minutes
+        nl = %.0f minuten
     [one_hour]
         de = 1 Stunde
         en = 1 hour
         nl = 1 uur
     [x_hours]
-        de = %d Stunden
-        en = %d hours
-        nl = %d uur
+        de = %.0f Stunden
+        en = %.0f hours
+        nl = %.0f uur
 
 
 [[More Info]]
