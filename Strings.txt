@@ -237,6 +237,10 @@
         de = Karte
         en = Map
         nl = Kaart
+    [show_my_location]
+        de = Meinen Standort anzeigen
+        en = Show my location
+        nl = Toon huidige locatie
     [speed]
         de = Geschwindigkeit
         en = Speed
