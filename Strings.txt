@@ -426,6 +426,10 @@
         de = Einstellung an welcher Stelle die Grafik\ndie Niederschlagsmenge darstellt.
         en = Set at which location the graph\nshows precipitation data.
         nl = Bepaal op welke locatie de grafiek de neerslag meet.
+    [graph_need_location_permission]
+        de = Aktivieren Sie die Standortberechtigungen für die GPS-Option
+        en = Turn on location permissions for the GPS option
+        nl = Zet locatierechten aan om de GPS te laten werkenxs
     [graph_openatstartup]
         de = Öffnen beim Start
         en = Open at startup
